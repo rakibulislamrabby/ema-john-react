@@ -1,7 +1,8 @@
 .product {
   height: 510px;
-  margin-top: 120px;
+  margin-top: 80px;
   margin-left: 81px;
+  /* padding-right: 50px; */
   border: 1px solid #95a0a7;
   border-radius: 8px;
   /* padding: 7px; */
